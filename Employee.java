@@ -1,4 +1,4 @@
-package youdoordie;3
+package youdoordie;
 
 import java.util.Scanner;
 
